@@ -13,6 +13,6 @@ We're always on the lookout for talented individuals to join our team. If you ha
 
 ### Contact
 - Email: [helloworld@intrinsiccreative.org](mailto:helloworld@intrinsiccreative.org)
-- Website: [www.intrinsiccreative.org](https://www.intrinsiccreative.org)
+- Website: [www.intrinsiccreative.org](https://www.intrinsiccreative.org) (coming soon)
 
 We look forward to hearing from you!
