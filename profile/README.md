@@ -1,4 +1,4 @@
-# Intrinsic Creative
+# Intrinsic Creative LLC
 
 ### Overview
 Intrinsic Creative is a budding tech studio based in the States. We specialize in developing innovative hardware and software.
@@ -12,7 +12,7 @@ We are open to collaborations with individuals and organizations who share our e
 We're always on the lookout for talented individuals to join our team. If you have expertise in areas such as hardware engineering, software development, UI/UX design, AI r&d, or any other relevant field, please feel free to reach out to us.
 
 ### Contact
-- Email: [helloworld@intrinsiccreative.org](mailto:helloworld@intrinsiccreative.org)
-- Website: [www.intrinsiccreative.org](https://www.intrinsiccreative.org) (coming soon)
+- Email: [helloworld@intrinsicreative.com](mailto:helloworld@intrinsicreative.com)
+- Website: [intrinsicreative.com](https://intrinsicreative.com)
 
 We look forward to hearing from you!
